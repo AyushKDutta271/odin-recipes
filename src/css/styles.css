@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: yellow
+}
+
+.ingredients{
+    margin:0 auto;
+    justify-items: center
+}
+
+.heading-line{
+    box-sizing:border-box;
+   color:brown;
+    background-color: rgba(100%,50%,0%,0.5);
+    padding:5px;
+    height: 80px;
+    padding:15px
+}
+
+.welcome-line{
+    box-sizing: border-box;
+    background-color: hsla(0, 50%, 60%, 0.4);
+    margin-top:50px;
+    color: #1050ff;
+    height:50px;
+    padding:15px
+}
